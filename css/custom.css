@@ -1,0 +1,46 @@
+/* Custom CSS */
+/* Include your CSS here in order to simplify theme updates */
+
+#navigation .nav li:hover a, #navigation .nav li.current_page_item a, #navigation .nav li.current-menu-item a #navigation .nav li.current-menu-ancestor a, #navigation .nav li.current-menu-parent a, #navigation .nav li.sfHover{
+background:rgba(0,0,0,0.1);
+}
+.module_list{
+width:100%;
+}
+.module_list li{
+width:25%; 
+float:left;
+ line-height: 36px;
+}
+html body.home.page.page-id-28.page-template.page-template-template-home-php.logged-in.admin-bar.sidebar-right.gecko.has-slider.customize-support div#wrapper section#home-service.home-block.home-service.clearfix div.col-full div.home-block-header header h3{
+display:none;
+}
+
+html body.page.page-id-92.page-template.page-template-template-contact-php.sidebar-right.gecko div#wrapper div#container.clearfix section#content.contact-us article.post div.nice-contact-form.clearfix form#nice_contact p select{
+display:block;
+font-size: 100%;
+    margin: 1px 0 0;
+    padding: 10px 0 9px 10px;
+    width: 55%;
+background:none;
+}
+/*
+     FILE ARCHIVED ON 11:42:03 Jan 29, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:42:35 Aug 03, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.405
+  exclusion.robots: 0.017
+  exclusion.robots.policy: 0.008
+  esindex: 0.01
+  cdx.remote: 19.188
+  LoadShardBlock: 65.238 (3)
+  PetaboxLoader3.datanode: 92.595 (5)
+  load_resource: 428.851 (2)
+  PetaboxLoader3.resolve: 391.641 (2)
+*/
